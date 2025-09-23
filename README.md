@@ -10,7 +10,7 @@ following paper:
 <img src="figures/crac25_empty_nodes_baseline.svg" alt="CRAC 25 Empty Nodes Baseline" align="right" style="width: 15.8%">
 <img src="figures/corpipe25_architecture.svg" alt="CorPipe 25 Architecture" align="right" style="width: 34.2%">
 
-<h3 align="center"><a href="">CorPipe at CRAC 2025: Evaluating Multilingual Encoders for Multilingual Coreference Resolution</a></h3>
+<h3 align="center"><a href="https://arxiv.org/abs/2509.17858">CorPipe at CRAC 2025: Evaluating Multilingual Encoders for Multilingual Coreference Resolution</a></h3>
 
 <p align="center">
   <b>Milan Straka</b><br>
