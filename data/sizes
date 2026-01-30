@@ -1,0 +1,23 @@
+# for d in */; do echo ${d%/} $(grep -cP '^\d+\t' $d${d%/}-corefud-train.conllu); done
+ca_ancora 332877
+cs_pcedt 935568
+cs_pdt 653713
+cu_proiel 47853
+de_potsdamcc 26677
+en_gum 177410
+en_litbank 168247
+es_ancora 366903
+fr_ancor 371775
+fr_democrat 228100
+grc_proiel 56131
+hbo_ptnk 7727
+hi_hdtb 41592
+hu_korkor 19457
+hu_szegedkoref 100508
+ko_ecmt 395048
+lt_lcc 30082
+no_bokmaalnarc 203220
+no_nynorsknarc 172764
+pl_pcc 431618
+ru_rucor 123599
+tr_itcc 45125
