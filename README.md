@@ -1,9 +1,8 @@
 # CorPipe 25: CRAC 2025 Winning System for Multilingual Coreference Resolution
 
-This repository will contain the source code and the pre-trained models of CorPipe 25,
-the CRAC 2025 winning system for multilingual coreference resolution. Both will
-be published before the CODI-CRAC 2025 workshop and are described in the
-following paper:
+This contains the source code and the pre-trained models of CorPipe 25,
+the CRAC 2025 winning system for multilingual coreference resolution, which
+is described in the following paper:
 
 ---
 
